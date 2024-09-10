@@ -1,0 +1,15 @@
+array is referece type in java which is used to store multiple homogenous(same type of element).
+array memory is always allocated by using new operator
+array always have its fixed length and its index always start from zero(0).
+Array index is always an integer value. and it can be used to access the array elements.
+array can be implemented as one dimensional or multi dimensional matrix.
+
+
+1- WAP to create an integer array of size 10,print the elements and count the no. of even or elements.
+2 - WAP to create an integer array of size 10,print all the elements and find the avg of even elements only.
+3 - WAP to create an integer array of size 5, print all its elements with their factorial value.
+4- WAP to create an array 5 string, print all the elements by 1 by in its reverse order.
+5- WAP to create an array of 5 integers ,print all the element with their prime factors .
+6- WAP to create an array of 10 integers ,print all the element and print the average of all prime element .
+7-WAP to create an array of 5 Strings , print all the elements one by one by converting all the vowels in capitals.
+8-WAP to create an array of  String , print all the element one by one by converting 1st and last letter in Capitals.
