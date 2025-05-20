@@ -1,0 +1,3 @@
+it is a alphanumeric and special character enclosed in "".
+String is reference type in java
+String is a class in java lang package
